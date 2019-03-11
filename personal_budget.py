@@ -4,7 +4,7 @@
 #---------------------------|
 
 import ui
-from console import hud_alert
+# from console import hud_alert
 
 # i/o
 history = open('history.txt', 'r+')
